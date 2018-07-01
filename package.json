@@ -1,0 +1,15 @@
+{
+  "name": "basic-http-healthcheck",
+  "version": "1.0.0",
+  "description": "Very rudimentary HTTP server healthcheck tool.",
+  "homepage": "https://github.com/williamboman/basic-http-healthcheck",
+  "main": "index.js",
+  "bin": "cli.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "William Boman <william@redwill.se>",
+  "license": "MIT",
+  "dependencies": {
+    "ramda": "^0.25.0"
+  }
+}
